@@ -3,9 +3,7 @@ import top_right_arrow from '../assets/top_right_arrow.png';
 import diamond from '../assets/diamond.png';
 import grid from '../assets/grid.png';
 
-type Props = {}
-
-const WhereValueCreated = (props: Props) => {
+const WhereValueCreated = () => {
     return (
         <section className='wvc'>
             <div className='wvc-content'>

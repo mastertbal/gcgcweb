@@ -1,6 +1,4 @@
-type Props = {}
-
-const SeeTheValue = (props: Props) => {
+const SeeTheValue = () => {
     return (
         <section className="stv">
             <div className="stv-content">

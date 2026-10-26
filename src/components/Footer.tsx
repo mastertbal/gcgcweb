@@ -1,6 +1,4 @@
-type Props = {}
-
-const Footer = (props: Props) => {
+const Footer = () => {
     return (
         <section className='footer'>
             <div className='footer-content'>

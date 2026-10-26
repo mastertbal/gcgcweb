@@ -1,8 +1,6 @@
 import Anchor from './Anchor'
 
-type HeaderProps = {}
-
-const Header = (props: HeaderProps) => {
+const Header = () => {
     return (
         <header>
             <div className='header-content'>

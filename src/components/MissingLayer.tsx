@@ -1,8 +1,6 @@
 import MissingCogent from './MissingCogent'
 
-type Props = {}
-
-const MissingLayer = (props: Props) => {
+const MissingLayer = () => {
     return (
         <section className='missing-layer'>
             <div className='missing-content'>

@@ -2,9 +2,7 @@ import Anchor from "./Anchor"
 import Info from "./Info"
 import hero_img from '../assets/hero_img.png';
 
-type HeroProps = {}
-
-const Hero = (props: HeroProps) => {
+const Hero = () => {
     return (
         <section className="hero">
             <div className='hero-content'>

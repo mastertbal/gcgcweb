@@ -1,6 +1,4 @@
-type Props = {}
-
-const ProveValue = (props: Props) => {
+const ProveValue = () => {
     return (
         <section className='prove-value'>
             <div className='prove-value-content'>
