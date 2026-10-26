@@ -1,5 +1,3 @@
-import React from 'react'
-
 type WhereValueChildProps = {
     imageUrl: string;
     title: string;

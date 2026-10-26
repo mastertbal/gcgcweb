@@ -1,4 +1,3 @@
-import React from 'react'
 import WhereValueChild from './WhereValueChild'
 import top_right_arrow from '../assets/top_right_arrow.png';
 import diamond from '../assets/diamond.png';

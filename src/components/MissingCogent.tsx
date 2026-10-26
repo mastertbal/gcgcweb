@@ -1,5 +1,3 @@
-import React from 'react'
-
 type MissingCogentProps = {
     head: string;
     info1: string;

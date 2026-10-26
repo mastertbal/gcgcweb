@@ -1,4 +1,3 @@
-import React from 'react'
 import MissingCogent from './MissingCogent'
 
 type Props = {}
